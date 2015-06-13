@@ -1,0 +1,9 @@
+Name:       Leage Gothic
+Homepage:   http://theleagueofmoveabletype.com/league-gothic
+Download:   https://github.com/theleagueof/league-gothic
+Version:    1.560 (2012)
+License:    Open Font License
+Publisher:  The League of Moveable Type
+Designer:   Caroline Hadilaksono, Micah Rich
+Designed:   2009
+Derivation: Alternate Gothic #1

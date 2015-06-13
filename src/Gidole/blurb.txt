@@ -1,0 +1,10 @@
+Name:       Gidole
+Homepage:   http://gidole.github.io/
+Download:   https://github.com/larsenwork/Gidole
+Version:    20150613 (2015-06)
+License:    Open Font License
+Publisher:  Andreas Larsen
+Designer:   Andreas Larsen
+Designed:   2014
+Derivation: DIN
+

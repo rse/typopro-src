@@ -1,0 +1,22 @@
+{
+    "name":        "typopro-src",
+    "version":     "3.0.0",
+    "description": "Fonts for Professional Typography (Source Font Formats)",
+    "homepage":    "https://github.com/rse/typopro-src",
+    "license":     "MIT AND Apache AND OFL AND CC0",
+    "author": {
+        "name":    "Ralf S. Engelschall",
+        "email":   "rse@engelschall.com",
+        "url":     "http://engelschall.com"
+    },
+    "keywords": [
+        "font", "typography", "ttf", "otf", "woff", "eot"
+    ],
+    "repository": {
+        "type":    "git",
+        "url":     "git://github.com/rse/typopro-src.git"
+    },
+    "bugs": {
+        "url":     "http://github.com/rse/typopro/issues"
+    }
+}
