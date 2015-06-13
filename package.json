@@ -1,7 +1,7 @@
 {
     "name":        "typopro-src",
-    "version":     "3.0.0",
-    "description": "Fonts for Professional Typography (Source Font Formats)",
+    "version":     "3.0.1",
+    "description": "Fonts for Professional Typography (SRC)",
     "homepage":    "https://github.com/rse/typopro-src",
     "license":     "MIT AND Apache AND OFL AND CC0",
     "author": {

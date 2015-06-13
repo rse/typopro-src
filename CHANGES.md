@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.0.1
+-----
+
+- align package descriptions
+
 3.0.0
 -----
 
