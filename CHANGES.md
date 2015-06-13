@@ -7,6 +7,8 @@ CHANGES
 
 - align package descriptions
 
+- add missing Bower descriptor files
+
 3.0.0
 -----
 
