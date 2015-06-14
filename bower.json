@@ -1,8 +1,8 @@
 {
     "name":        "typopro-src",
-    "version":     "3.0.1",
+    "version":     "3.0.5",
     "description": "Fonts for Professional Typography (SRC)",
-    "homepage":    "https://github.com/rse/typopro",
+    "homepage":    "https://github.com/rse/typopro-src",
     "license":     "MIT AND Apache AND OFL AND CC0",
     "authors": [
         "Ralf S. Engelschall <rse@engelschall.com>"
