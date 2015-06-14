@@ -1,0 +1,10 @@
+Name:       Kreon
+Homepage:   http://dejavu-fonts.org/
+Download:   http://www.fontsquirrel.com/fonts/kreon
+Version:    1.001 (2010)
+License:    Open Font License
+Publisher:  Julia Petretta
+Designer:   Julia Petretta
+Designed:   2010
+Derivation: none
+

@@ -2,6 +2,18 @@
 CHANGES
 =======
 
+3.1.0
+-----
+
+- added Andada font family
+
+- added Kreon font family
+
+3.0.2 - 3.0.5
+-------------
+
+- fixed new project infrastructure
+
 3.0.1
 -----
 
