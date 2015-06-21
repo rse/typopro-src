@@ -7,6 +7,8 @@ CHANGES
 
 - added bold variant of Inconsolata font
 
+- added Coming Soon font
+
 3.1.0
 -----
 

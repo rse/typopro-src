@@ -1,0 +1,9 @@
+Name:       Coming Soon
+Homepage:   https://github.com/google/fonts/tree/master/apache/comingsoon
+Download:   https://github.com/google/fonts/tree/master/apache/comingsoon
+Version:    1.000 (2010)
+License:    Apache
+Publisher:  Google Fonts
+Designer:   Open Window
+Designed:   2010
+Derivation: none
