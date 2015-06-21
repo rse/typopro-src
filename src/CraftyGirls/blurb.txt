@@ -1,0 +1,9 @@
+Name:       Crafty Girls
+Homepage:   https://github.com/google/fonts/tree/master/ofl/craftygirls
+Download:   https://github.com/google/fonts/tree/master/ofl/craftygirls
+Version:    1.000 (2010)
+License:    Open Font License
+Publisher:  Google Fonts
+Designer:   Font Diner, Inc.
+Designed:   2011
+Derivation: none

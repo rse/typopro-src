@@ -1,0 +1,10 @@
+Name:       Permanent Marker
+Homepage:   https://github.com/google/fonts/tree/master/apache/permanentmarker
+Download:   https://github.com/google/fonts/tree/master/apache/permanentmarker
+Version:    1.000 (2010)
+License:    Apache
+Publisher:  Google Fonts
+Designer:   Font Diner, Inc
+Designed:   2010
+Derivation: none
+

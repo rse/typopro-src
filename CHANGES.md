@@ -2,12 +2,20 @@
 CHANGES
 =======
 
-3.1.1
+3.2.0
 -----
 
 - added bold variant of Inconsolata font
 
 - added Coming Soon font
+
+- added Rock Salt font
+
+- added Permanent Marker font
+
+- added Cookie font
+
+- added Crafty Girls font
 
 3.1.0
 -----

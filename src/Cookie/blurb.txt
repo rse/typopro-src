@@ -1,0 +1,9 @@
+Name:       Cookie
+Homepage:   https://github.com/google/fonts/tree/master/ofl/cookie
+Download:   https://github.com/google/fonts/tree/master/ofl/cookie
+Version:    1.004 (2011)
+License:    Open Font License
+Publisher:  Google Fonts
+Designer:   Ania Kruk
+Designed:   2011
+Derivation: none
