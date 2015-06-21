@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.1.1
+-----
+
+- added bold variant of Inconsolata font
+
 3.1.0
 -----
 
