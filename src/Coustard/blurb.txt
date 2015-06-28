@@ -1,0 +1,14 @@
+Name:       Coustard
+Homepage:   https://github.com/vernnobile/coustardFont
+Download:   https://github.com/vernnobile/coustardFont
+Version:    1.000 (2013)
+License:    Open Font License 1.1
+Publisher:  Vernon Adams
+Designer:   Vernon Adams
+Designed:   2013
+Derivation: Tienne
+
+Coustard is a display and text serif webfont designed to be used freely
+across the internet by web browsers on desktop computers, laptops and
+mobile devices. Coustard has been developed from a fork of Tienne.
+

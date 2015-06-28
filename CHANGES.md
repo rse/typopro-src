@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.2.1
+-----
+
+- added Coustard font family
+
 3.2.0
 -----
 
