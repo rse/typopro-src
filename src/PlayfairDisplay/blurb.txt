@@ -1,0 +1,23 @@
+Name:       Playfair Display
+Homepage:   http://www.forthehearts.net/typeface-design/playfair-display/
+Download:   http://code.google.com/p/googlefontdirectory/
+Version:    1.004 (2012)
+License:    Open Font License
+Publisher:  Google Fonts
+Designer:   Claus Eggers Sørensen
+Designed:   2010
+Derivation: none
+
+Playfair is a transitional design. From the time of enlightenment in the
+late 18th century, the broad nibquills were replaced by pointed steel
+pens. This influenced typographical letterforms to become increasingly
+detached from the written ones. Develop­ments in printing technology,
+ink and paper making, made it possible to print letter­forms of high
+contrast and delicate hairlines.
+
+This design lends itself to this period, and while it is not a revival
+of any particular design, it takes influence from the designs of
+printer and typeface designer John Baskerville, the punchcutter William
+Martin’s typeface for the ‘Boydell Shakspeare’ (sic) edition, and
+from the ‘Scotch Roman’ designs that followed thereafter.
+

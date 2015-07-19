@@ -1,0 +1,19 @@
+Name:       Work Sans
+Homepage:   http://weiweihuanghuang.github.io/Work-Sans/
+Download:   http://weiweihuanghuang.github.io/Work-Sans/
+Version:    1.32 (2015-07)
+License:    Open Font License
+Publisher:  Wei Huang
+Designer:   Wei Huang
+Designed:   2014
+Derivation: Grotesques
+
+Work Sans is a typeface based loosely on early Grotesques — i.e.
+Stephenson Blake, Miller & Richard and Bauerschen Giesserei. There are
+10 weights (the 10th Hairline weight is considered a bonus since CSS
+only allows for 9 weight families). The core of the fonts are optimised
+for on-screen medium-sized text usage (14px-48px) – but still can be
+used in print well. The fonts extreme weights are designed more for
+display use. Overall, features are simplified and optimised for screen
+resolutions – for example, diacritic marks are larger than how they
+would be in print.

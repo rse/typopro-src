@@ -2,6 +2,15 @@
 CHANGES
 =======
 
+3.2.2
+-----
+
+- fixed path calculation errors for Web specimen
+
+- added Playfair Display font family
+
+- added Work Sans font family
+
 3.2.1
 -----
 
