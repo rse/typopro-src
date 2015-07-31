@@ -1,0 +1,10 @@
+Name:       Monoid
+Homepage:   http://larsenwork.com/monoid/
+Download:   https://github.com/larsenwork/monoid
+Version:    0.60 (2015-07)
+License:    Open Font License, MIT
+Publisher:  Andreas Larsen
+Designer:   Andreas Larsen
+Designed:   2015
+Derivation: none
+

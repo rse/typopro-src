@@ -5,6 +5,8 @@ CHANGES
 3.2.3
 -----
 
+- added Monoid font family
+
 - upgraded Office Code Pro to latest version (now includes Italic variants)
 
 3.2.2
