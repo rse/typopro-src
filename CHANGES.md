@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.2.3
+-----
+
+- upgraded Office Code Pro to latest version (now includes Italic variants)
+
 3.2.2
 -----
 
