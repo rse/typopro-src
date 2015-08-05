@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.2.4
+-----
+
+- updated Kalam font family
+
 3.2.3
 -----
 
