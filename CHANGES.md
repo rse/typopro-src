@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.2.5
+-----
+
+- added Hack font family
+
 3.2.4
 -----
 
