@@ -5,6 +5,8 @@ CHANGES
 3.2.5
 -----
 
+- updated Indie Flower font
+
 - updated Crimson font family
 
 - added Hack font family
