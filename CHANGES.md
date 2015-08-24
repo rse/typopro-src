@@ -5,6 +5,8 @@ CHANGES
 3.2.5
 -----
 
+- updated Playfair Display font family
+
 - updated Indie Flower font
 
 - updated Crimson font family
