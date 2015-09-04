@@ -48,6 +48,7 @@
 #   U+2C60..U+2C7F  Latin Extended-C                            32
 #   --------------
 #   U+A720..U+A7FF  Latin Extended-D                           224
+#   U+FB00..U+FB06  Ligatures                                    7
 
 #   argument handling
 srcdir="$1"
@@ -126,7 +127,7 @@ for line in `cat etc/manifest.txt | egrep "$pattern"`; do
     cmd1="$cmd1 \"$srcdir/$font\""
 
     #   determine font conversion command (DTP formats)
-    cmd2="$cmd -u '0000-036F,1DC0-1EFF,2000-20FF,2150-218F,2C60-2C7F,A720-A7FF'"
+    cmd2="$cmd -u '0000-036F,1DC0-1EFF,2000-20FF,2150-218F,2C60-2C7F,A720-A7FF,FB00-FB06'"
     cmd2="$cmd2 -O \"ttf\""
     cmd2="$cmd2 -o \"$dtpdir/$prefix-$name/\""
     cmd2="$cmd2 \"$srcdir/$font\""
