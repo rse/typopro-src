@@ -751,7 +751,6 @@ WeblySleek/WeblySleek-SemiLight.ttf                  family="Webly Sleek" weight
 WeblySleek/WeblySleek-SemiLightItalic.ttf            family="Webly Sleek" weight="normal"
 WeblySleek/WeblySleek-SemiBold.ttf                   family="Webly Sleek" weight="bold"
 WeblySleek/WeblySleek-SemiBoldItalic.ttf             family="Webly Sleek" weight="bold"
-WorkSans/WorkSans-Hairline.otf                       family="Work Sans 100" weight="normal"
 WorkSans/WorkSans-Thin.otf                           family="Work Sans" weight="100"
 WorkSans/WorkSans-ExtraLight.otf                     family="Work Sans" weight="200"
 WorkSans/WorkSans-Light.otf                          family="Work Sans" weight="300"

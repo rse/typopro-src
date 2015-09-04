@@ -2,6 +2,20 @@
 CHANGES
 =======
 
+3.2.6
+-----
+
+- added Unicode character range FB00-FB06 to all font subsets
+  (these contain the usual ligatures).
+
+- updated Ubuntu font family
+
+- updated Work Sans font family
+
+- updated Noto Sans and Noto Serif font families
+
+- updated Lato font family
+
 3.2.5
 -----
 
