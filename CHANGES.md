@@ -2,8 +2,10 @@
 CHANGES
 =======
 
-3.2.6
+3.3.0
 -----
+
+- upgraded dependencies
 
 - added Unicode character range FB00-FB06 to all font subsets
   (these contain the usual ligatures).
