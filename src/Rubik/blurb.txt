@@ -1,0 +1,17 @@
+Name:       Rubik
+Homepage:   http://hubertfischer.com/work/type-rubik
+Download:   http://hubertfischer.com/work/type-rubik
+Version:    1.002 (2015-07)
+License:    Open Font License 1.1
+Publisher:  Hubert & Fischer
+Designer:   Sebastian Fischer, Philipp Hubert
+Designed:   2011
+Derivation: none
+
+Google Creative Lab approached us to design a typeface for the branding
+of the Rubik's Cube Exhibition "Beyond Rubik's Cube" at the Liberty
+Science Center, Jersey City. We designed a slightly rounded heavyweight
+font in which the letters fit perfectly in a single cubelet of the
+Rubik's Cube. The font was expanded to include Cyrillic and Hebrew
+characters for the exhibition, which will travel internationally.
+
