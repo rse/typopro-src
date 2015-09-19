@@ -2,7 +2,7 @@
 CHANGES
 =======
 
-3.3.1
+3.4.0
 -----
 
 - updated Source Code Pro font family
