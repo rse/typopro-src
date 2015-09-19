@@ -2,6 +2,19 @@
 CHANGES
 =======
 
+3.3.1
+-----
+
+- updated Source Code Pro font family
+
+- updated Noto Serif font family
+
+- updated Hack font family
+
+- added Nickainley script font
+
+- added Rubik font family
+
 3.3.0
 -----
 
