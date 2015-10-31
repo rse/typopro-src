@@ -2,6 +2,19 @@
 CHANGES
 =======
 
+3.4.1
+-----
+
+- updated Fira Mono font family
+
+- updated Fira Sans font family
+
+- updated Hack font family
+
+- updated Inconsolata font family
+
+- added Rubik Mono font to Rubik font family
+
 3.4.0
 -----
 
