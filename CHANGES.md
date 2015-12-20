@@ -5,6 +5,8 @@ CHANGES
 3.4.2
 -----
 
+- added Junicode font family
+
 - add new Fira Sans Condensed font sub-family
 
 - updated Monoid font family
