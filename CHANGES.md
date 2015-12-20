@@ -11,6 +11,8 @@ CHANGES
 
 - updated Monoid font family
 
+- updated Source Sans Pro family
+
 3.4.1
 -----
 
