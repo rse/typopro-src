@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.4.2
+-----
+
+- add new Fira Sans Condensed font sub-family
+
 3.4.1
 -----
 
