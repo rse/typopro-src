@@ -7,6 +7,8 @@ CHANGES
 
 - add new Fira Sans Condensed font sub-family
 
+- updated Monoid font family
+
 3.4.1
 -----
 
