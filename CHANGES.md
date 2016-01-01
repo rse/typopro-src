@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.4.3
+-----
+
+- upgraded Vollkorn font family
+
 3.4.2
 -----
 

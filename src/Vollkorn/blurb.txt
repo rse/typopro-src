@@ -1,11 +1,11 @@
 Name:       Vollkorn
-Homepage:   http://friedrichalthausen.de/vollkorn/
-Download:   http://friedrichalthausen.de/vollkorn/
-Version:    2.1
+Homepage:   http://vollkorn-typeface.com/
+Download:   http://vollkorn-typeface.com/
+Version:    3.005 (2014-03)
 License:    Open Font License 1.1
 Publisher:  Friedrich Althausen
 Designer:   Friedrich Althausen
-Designed:   ?
+Designed:   2006
 Derivation: none
 
 Vollkorn came into being as my first type designing attempt. I
