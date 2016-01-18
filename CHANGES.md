@@ -2,6 +2,15 @@
 CHANGES
 =======
 
+3.4.4
+-----
+
+- added Cormorant font family
+
+- added Astloch font family
+
+- upgraded Hack font family
+
 3.4.3
 -----
 

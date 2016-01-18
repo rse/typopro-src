@@ -1,0 +1,16 @@
+Name:       Cormorant
+Homepage:   https://github.com/CatharsisFonts/Cormorant
+Download:   https://github.com/CatharsisFonts/Cormorant
+Version:    2.1 (2015-11)
+License:    Open Font License 1.1
+Publisher:  Christian Thalmann
+Designer:   Christian Thalmann
+Designed:   2015
+Derivation: Garamond
+
+Cormorant is a free display type family developed by Christian Thalmann
+(Catharsis Fonts). It comprises a total of 45 font files spanning 9
+different styles (Roman, Italic, Infant, Infant Italic, Garamond,
+Garamond Italic, Upright Cursive, Small Caps, Unicase) and 5 weights
+(Light, Regular, Medium, Semibold, Bold).
+
