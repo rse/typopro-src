@@ -1,0 +1,10 @@
+Name:       Give You Glory
+Homepage:   Google Fonts
+Download:   Google Fonts
+Version:    1.002 (2010)
+License:    Open Font License
+Publisher:  Google Fonts
+Designer:   Kimberly Geswein
+Designed:   2010
+Derivation: Handwriting
+

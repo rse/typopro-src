@@ -5,6 +5,8 @@ CHANGES
 3.4.4
 -----
 
+- added Give You Glory font
+
 - added Cormorant font family
 
 - added Astloch font family
