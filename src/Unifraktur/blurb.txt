@@ -1,0 +1,10 @@
+Name:       Unifraktur
+Homepage:   http://unifraktur.sourceforge.net/
+Download:   http://unifraktur.sourceforge.net/
+Version:    2016-02-21 (2016-02-21), 2013-08-25 (2013-08-25)
+License:    Open Font License
+Publisher:  J. "Mach" Wust, Gerrit Ansmann, Georg Duffner
+Designer:   J. "Mach" Wust, Gerrit Ansmann, Georg Duffner
+Designed:   2010
+Derivation: Black Letter Fonts
+
