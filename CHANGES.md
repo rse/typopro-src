@@ -2,6 +2,13 @@
 CHANGES
 =======
 
+3.4.5
+-----
+
+- added Courier Prime Sans font family
+
+- added Courier Prime Code font family
+
 3.4.4
 -----
 
