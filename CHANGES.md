@@ -9,6 +9,8 @@ CHANGES
 
 - added Courier Prime Code font family
 
+- upgraded Hack font family
+
 3.4.4
 -----
 
