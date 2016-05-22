@@ -1,0 +1,9 @@
+Name:       Mononoki
+Homepage:   https://madmalik.github.io/mononoki/
+Download:   https://github.com/madmalik/mononoki/raw/master/export/mononoki.zip
+Version:    1.000 (2016-05)
+License:    Open Font License 1.1
+Publisher:  Matthias Tellen
+Designer:   Matthias Tellen
+Designed:   2013
+Derivation: monospace fonts, font MonoOne

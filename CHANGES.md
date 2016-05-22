@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.4.6
+-----
+
+- added Mononoki font family
+
 3.4.5
 -----
 
