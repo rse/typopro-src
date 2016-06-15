@@ -5,6 +5,8 @@ CHANGES
 3.4.6
 -----
 
+- updated Merriweather font family
+
 - added Lemonada font family
 
 - added Arima Madurai font family
