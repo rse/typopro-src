@@ -5,6 +5,8 @@ CHANGES
 3.4.6
 -----
 
+- added Lemonada font family
+
 - added Arima Madurai font family
 
 - added Libre Franklin font family

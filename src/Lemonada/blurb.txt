@@ -1,0 +1,10 @@
+Name:       Lemonada
+Homepage:   https://github.com/Gue3bara/Lemonada.git
+Download:   https://github.com/Gue3bara/Lemonada.git
+Version:    3.006 (2016-03)
+License:    Open Font License 1.1
+Publisher:  Mohamed Gaber, Eduardo Rodríguez Tunni
+Designer:   Mohamed Gaber, Eduardo Rodríguez Tunni
+Designed:   2015
+Derivation: none
+
