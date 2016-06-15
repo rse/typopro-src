@@ -5,6 +5,8 @@ CHANGES
 3.4.6
 -----
 
+- added Arima Madurai font family
+
 - added Libre Franklin font family
 
 - added Mononoki font family
