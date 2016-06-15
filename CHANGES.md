@@ -5,6 +5,8 @@ CHANGES
 3.4.6
 -----
 
+- added Libre Franklin font family
+
 - added Mononoki font family
 
 3.4.5

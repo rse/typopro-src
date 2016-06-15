@@ -1,0 +1,12 @@
+Name:       Libre Franklin
+Homepage:   https://github.com/impallari/Libre-Franklin
+Download:   https://github.com/impallari/Libre-Franklin
+Version:    1.003 (2016-05)
+License:    Open Font License 1.1
+Publisher:  Pablo Impallari
+Designer:   Pablo Impallari and Rodrigo Fuenzalida
+Designed:   2015
+Derivation: Franklin
+
+Libre Franklin is an interpretation and expansion of the 1912 Morris
+Fuller Benton classic.
