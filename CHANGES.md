@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.4.7
+-----
+
+- added missing Montserrat font family members
+
 3.4.6
 -----
 
