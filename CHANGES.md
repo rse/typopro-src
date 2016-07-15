@@ -5,6 +5,8 @@ CHANGES
 3.4.7
 -----
 
+- added Secular One font
+
 - added missing Montserrat font family members
 
 3.4.6
