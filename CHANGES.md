@@ -5,6 +5,8 @@ CHANGES
 3.4.9
 -----
 
+- added Space Mono font family
+
 - added Tillana font family
 
 3.4.8

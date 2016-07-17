@@ -1,0 +1,17 @@
+Name:       Space Mono
+Homepage:   https://github.com/googlefonts/spacemono
+Download:   https://github.com/googlefonts/spacemono
+Version:    1.0 (2016-06)
+License:    Open Font License
+Publisher:  Google Design
+Designer:   Colophon Foundry
+Designed:   2016
+Derivation: none
+
+Space Mono is an original monospace display typeface family designed
+by Colophon Foundry for Google Design. It supports a Latin Extended
+glyph set, enabling typesetting for English and other Western European
+languages. Developed explicitly for use in headline and display
+typography, the letterforms infuse a geometric slab core with novel
+over-rationalized forms.
+
