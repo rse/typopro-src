@@ -2,6 +2,16 @@
 CHANGES
 =======
 
+3.4.9
+-----
+
+- added Tillana font family
+
+3.4.8
+-----
+
+- updated Secular One font
+
 3.4.7
 -----
 
