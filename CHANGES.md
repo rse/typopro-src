@@ -15,6 +15,8 @@ CHANGES
 
 - updated Noto Sans and Noto Serif font family
 
+- updated Deja Vu font family
+
 3.4.9
 -----
 
