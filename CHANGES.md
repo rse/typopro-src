@@ -11,6 +11,10 @@ CHANGES
 
 - added Fira Code font family
 
+- added ET Book font family
+
+- updated Noto Sans and Noto Serif font family
+
 3.4.9
 -----
 
