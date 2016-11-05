@@ -27,6 +27,8 @@ CHANGES
 
 - updated Mplus font family
 
+- updated Lora font family
+
 3.4.9
 -----
 
