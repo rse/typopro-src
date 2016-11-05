@@ -17,6 +17,8 @@ CHANGES
 
 - updated Deja Vu font family
 
+- updated Source Code Pro font family
+
 3.4.9
 -----
 
