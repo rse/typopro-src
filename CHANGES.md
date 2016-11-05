@@ -2,6 +2,15 @@
 CHANGES
 =======
 
+3.5.0
+-----
+
+- updated Fira Sans font family
+
+- updated Fira Mono font family
+
+- added Fira Code font family
+
 3.4.9
 -----
 
