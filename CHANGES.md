@@ -19,6 +19,12 @@ CHANGES
 
 - updated Source Code Pro font family
 
+- updated Roboto font family
+
+- updated Roboto Mono font family
+
+- updated Roboto Slab font family
+
 3.4.9
 -----
 
