@@ -25,6 +25,8 @@ CHANGES
 
 - updated Roboto Slab font family
 
+- updated Mplus font family
+
 3.4.9
 -----
 
