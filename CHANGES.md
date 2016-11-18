@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.5.1
+-----
+
+- added Go font family
+
 3.5.0
 -----
 

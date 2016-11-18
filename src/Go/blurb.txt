@@ -1,0 +1,10 @@
+Name:       Go
+Homepage:   https://blog.golang.org/go-fonts
+Download:   git clone https://go.googlesource.com/image, font/gofont/ttfs
+Version:    2.005 (2016-11)
+License:    MIT-style
+Publisher:  Go Project
+Designer:   Bigelow & Holmes
+Designed:   2016
+Derivation: -
+
