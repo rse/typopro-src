@@ -7,6 +7,8 @@ CHANGES
 
 - added Go font family
 
+- added Overpass and Overpass Mono font families
+
 3.5.0
 -----
 
