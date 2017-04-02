@@ -5,6 +5,8 @@ CHANGES
 3.5.1
 -----
 
+- added Iosevka font family
+
 - added Go font family
 
 - added Overpass and Overpass Mono font families

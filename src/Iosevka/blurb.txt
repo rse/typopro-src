@@ -1,0 +1,12 @@
+Name:       Iosevka
+Homepage:   https://be5invis.github.io/Iosevka/
+Download:   https://github.com/be5invis/Iosevka/releases
+Version:    1.12.1 (2017-04)
+License:    Open Font License 1.1
+Publisher:  Belleve Invis
+Designer:   Belleve Invis
+Designed:   2015
+Derivation: Pragmata Pro, M+ and PF DIN Mono
+
+02-iosevka-term-1.12.1.zip
+06-iosevka-term-slab-1.12.1.zip
