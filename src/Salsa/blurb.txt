@@ -1,0 +1,9 @@
+Name:       Salsa
+Homepage:   https://www.fontsquirrel.com/fonts/salsa
+Download:   https://www.fontsquirrel.com/fonts/salsa
+Version:    1.002 (2017-03)
+License:    Open Font License 1.1
+Publisher:  John Vargas Beltrán
+Designer:   John Vargas Beltrán
+Designed:   2017
+Derivation: none
