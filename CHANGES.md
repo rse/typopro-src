@@ -2,7 +2,7 @@
 CHANGES
 =======
 
-3.5.1
+3.6.0
 -----
 
 - upgraded Source Serif Pro font family
