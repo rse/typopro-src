@@ -1,0 +1,19 @@
+Name:       Macondo
+Homepage:   https://fonts.google.com/specimen/Macondo
+Download:   https://fonts.google.com/specimen/Macondo
+Version:    2.001 (2017-03)
+License:    Open Font License 1.1
+Publisher:  Google Fonts
+Designer:   John Vargas Beltrán
+Designed:   1997
+Derivation: none
+
+The first purpose of this typeface was to provide an original and
+systematized style of calligraphy adapted into a modern digital font.
+The forms are inspired by some illustrations created for a tarot card
+game, itself inspired by the work of Colombian literature Nobel prize
+winning author, Gabriel García Márquez, "Cien Años de Soledad". Early
+versions of this font were made in 1997, but recently in 2009 it was
+substantially improved. Macondo includes several cap swashes and other
+stylish alternates, and a sister family Macondo Swash Caps is also
+available.
