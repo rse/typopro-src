@@ -1,7 +1,7 @@
 Name:       Overpasss
 Homepage:   http://overpassfont.org/
 Download:   https://github.com/RedHatBrand/Overpass/releases
-Version:    3.0 (2016-11)
+Version:    3.0.2 (2016-12)
 License:    Open Font License or LGPL
 Publisher:  Red Hat, Delve Font
 Designer:   Delve Withrington, Dave Bailey, Thomas Jockin

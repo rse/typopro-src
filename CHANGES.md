@@ -5,6 +5,8 @@ CHANGES
 3.5.1
 -----
 
+- upgraded Overpass font family
+
 - upgraded Montserrat font family
 
 - upgraded Cormorant font family
