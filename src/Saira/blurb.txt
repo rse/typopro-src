@@ -1,0 +1,9 @@
+Name:       Saira
+Homepage:   http://omnibus-type.com/fonts/saira.php
+Download:   https://fonts.google.com/specimen/saira
+Version:    0.072 (2016)
+License:    Open Font License
+Publisher:  Google Fonts
+Designer:   Hector Gatti
+Designed:   2016
+Derivation: none
