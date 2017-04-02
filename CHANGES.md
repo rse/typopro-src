@@ -5,6 +5,8 @@ CHANGES
 3.5.1
 -----
 
+- upgraded Source Serif Pro font family
+
 - upgraded Yanone Kaffesatz font family
 
 - upgraded Overpass font family
