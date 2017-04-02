@@ -5,6 +5,8 @@ CHANGES
 3.5.1
 -----
 
+- upgraded Montserrat font family
+
 - upgraded Cormorant font family
 
 - added Salsa font
