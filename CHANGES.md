@@ -5,6 +5,8 @@ CHANGES
 3.5.1
 -----
 
+- added Salsa font
+
 - added Macondo font family
 
 - added Iosevka font family
