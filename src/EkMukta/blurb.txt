@@ -1,7 +1,7 @@
 Name:       Droid
 Homepage:   https://github.com/girish-dalvi/Ek-Mukta
 Download:   https://github.com/girish-dalvi/Ek-Mukta/releases
-Version:    1.2.2
+Version:    2.538 (2017-05)
 License:    Open Font License
 Publisher:  Ek Type
 Designer:   Girish Dalvi and Yashodeep Gholap
