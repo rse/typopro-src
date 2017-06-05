@@ -1,0 +1,12 @@
+Name:       Rancho
+Homepage:   https://fonts.google.com/specimen/Rancho
+Download:   https://fonts.google.com/specimen/Rancho
+Version:    1.000 (2010)
+License:    Apache
+Publisher:  Font Diner, Inc DBA Sideshow
+Designer:   Font Diner, Inc DBA Sideshow
+Designed:   2010
+Derivation: -
+
+Rancho is a comfortable brush script typeface that works just as well in
+a barn or at the country club.

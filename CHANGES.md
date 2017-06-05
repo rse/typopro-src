@@ -2,6 +2,29 @@
 CHANGES
 =======
 
+3.7.0
+-----
+
+- upgraded Vollkorn font family
+
+- upgraded Ubuntu font family
+
+- upgraded Signika font family
+
+- upgraded SansitaOne font family
+
+- upgraded Overlock font family
+
+- upgraded Open Sans font family
+
+- upgraded Libre Franklin font family
+
+- upgraded Inconsolata font family
+
+- upgraded Cabin font family
+
+- upgraded Alegreya font family
+
 3.6.0
 -----
 
