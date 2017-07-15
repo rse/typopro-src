@@ -5,6 +5,8 @@ CHANGES
 3.7.1
 -----
 
+- updated Roboto font family
+
 - added League Mono font family
 
 - added Paprika font
