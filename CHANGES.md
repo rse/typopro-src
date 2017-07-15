@@ -2,7 +2,7 @@
 CHANGES
 =======
 
-3.7.1
+3.7.3
 -----
 
 - updated Roboto font family
@@ -10,6 +10,16 @@ CHANGES
 - added League Mono font family
 
 - added Paprika font
+
+3.7.2
+-----
+
+- internal script updates
+
+3.7.1
+-----
+
+- internal script updates
 
 3.7.0
 -----
