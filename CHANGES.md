@@ -2,6 +2,13 @@
 CHANGES
 =======
 
+3.7.1
+-----
+
+- added League Mono font family
+
+- added Paprika font
+
 3.7.0
 -----
 

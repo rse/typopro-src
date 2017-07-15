@@ -1,0 +1,9 @@
+Name:       League Mono
+Homepage:   http://leaguemono.tylerfinck.com/
+Download:   http://www.tylerfinck.com/shop/league-mono/
+Version:    1.000 (2007)
+License:    Open Font License
+Publisher:  Tyler Finck
+Designer:   Tyler Finck
+Designed:   2007
+Derivation: -
