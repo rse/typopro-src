@@ -1,0 +1,10 @@
+Name:       Zilla Slab
+Homepage:   https://github.com/mozilla/zilla-slab
+Download:   https://github.com/mozilla/zilla-slab
+Version:    1.0 (2017-07)
+License:    Open Font License
+Publisher:  Mozilla
+Designer:   Typotheque
+Designed:   2017
+Derivation: -
+

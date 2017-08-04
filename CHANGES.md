@@ -2,6 +2,15 @@
 CHANGES
 =======
 
+3.7.4
+-----
+
+- added Linux Libertine font family
+
+- added Linux Biolino font family
+
+- added Zilla Slab font family
+
 3.7.3
 -----
 
