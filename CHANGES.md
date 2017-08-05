@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.7.5
+-----
+
+- unbreak tarball extraction
+
 3.7.4
 -----
 
