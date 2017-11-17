@@ -5,6 +5,8 @@ CHANGES
 3.7.6
 -----
 
+- added Barlow font family
+
 - added IBM Plex font family
 
 - added Inter UI font family

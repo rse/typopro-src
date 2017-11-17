@@ -1,0 +1,15 @@
+Name:       Barlow
+Homepage:   https://tribby.com/projects/barlow
+Download:   https://github.com/jpt/barlow/releases
+Version:    1.201 (2017-11)
+License:    Open Font License
+Publisher:  Jeremy Tribby
+Designer:   Jeremy Tribby
+Designed:   2017
+Derivation: California Car Plates
+
+Barlow is a slightly rounded, low-contrast, grotesk type family designed
+by Jeremy Tribby. Drawing from the visual style of the California
+public, Barlow shares qualities with the state's car plates, highway
+signs, busses, and trains.
+
