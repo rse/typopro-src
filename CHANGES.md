@@ -15,6 +15,8 @@ CHANGES
 
 - updated Merriweather font family
 
+- updated Lora font family
+
 3.7.5
 -----
 
