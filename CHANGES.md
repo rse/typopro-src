@@ -2,6 +2,13 @@
 CHANGES
 =======
 
+3.7.6
+-----
+
+- added IBM Plex font family
+
+- added Inter UI font family
+
 3.7.5
 -----
 

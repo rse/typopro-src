@@ -1,0 +1,9 @@
+Name:       IBM Plex
+Homepage:   https://ibm.github.io/type/
+Download:   https://github.com/IBM/type/releases
+Version:    0.5.2 (2017-11)
+License:    Open Font License
+Publisher:  IBM Corporation
+Designer:   IBM Corporation
+Designed:   2017
+Derivation: Helvetica Neue
