@@ -13,6 +13,8 @@ CHANGES
 
 - updated Hack font family
 
+- updated Merriweather font family
+
 3.7.5
 -----
 
