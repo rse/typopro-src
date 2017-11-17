@@ -11,6 +11,8 @@ CHANGES
 
 - added Inter UI font family
 
+- updated Hack font family
+
 3.7.5
 -----
 
