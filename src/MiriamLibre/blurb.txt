@@ -1,0 +1,9 @@
+Name:       Miriam Libre
+Homepage:   https://github.com/MichalSahar/Miriam-Libre
+Download:   https://github.com/MichalSahar/Miriam-Libre
+Version:    1.000 (2016)
+License:    Open Font License
+Publisher:  Michal Sahar
+Designer:   Michal Sahar
+Designed:   2016
+Derivation: Miriam

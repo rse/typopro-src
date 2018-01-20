@@ -5,6 +5,8 @@ CHANGES
 3.7.7
 -----
 
+- added Miriam Libre font family
+
 - updated Barlow font family
 
 - added iA Writer Duospace font family
