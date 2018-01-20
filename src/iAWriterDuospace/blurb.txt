@@ -1,5 +1,5 @@
 Name:       iA Writer Duospace
-Homepage:   https://github.com/iaolo/iA-Fonts
+Homepage:   https://ia.net/topics/in-search-of-the-perfect-writing-font/
 Download:   https://github.com/iaolo/iA-Fonts
 Version:    2018-01
 License:    Open Font License, Apache License
