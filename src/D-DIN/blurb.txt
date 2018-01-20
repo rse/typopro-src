@@ -1,0 +1,9 @@
+Name:       D-DIN
+Homepage:   https://www.datto.com/fonts/d-din/
+Download:   https://www.datto.com/fonts/d-din/
+Version:    1.0 (2017-11)
+License:    Open Font License
+Publisher:  datto
+Designer:   datto
+Designed:   2017
+Derivation: DIN 1451

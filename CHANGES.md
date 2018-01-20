@@ -5,6 +5,8 @@ CHANGES
 3.7.7
 -----
 
+- added new font family Ranga
+
 - updated IBM Plex font family
 
 3.7.6
