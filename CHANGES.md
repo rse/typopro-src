@@ -7,13 +7,13 @@ CHANGES
 
 - added Miriam Libre font family
 
-- updated Barlow font family
-
 - added iA Writer Duospace font family
 
-- updated Vollkorn with Small Caps font variants
-
 - added new font family Ranga
+
+- updated Barlow font family
+
+- updated Vollkorn with Small Caps font variants
 
 - updated IBM Plex font family
 
