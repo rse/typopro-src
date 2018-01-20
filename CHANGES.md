@@ -5,6 +5,8 @@ CHANGES
 3.7.7
 -----
 
+- added iA Writer Duospace font family
+
 - updated Vollkorn with Small Caps font variants
 
 - added new font family Ranga

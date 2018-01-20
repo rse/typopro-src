@@ -1,0 +1,11 @@
+Name:       iA Writer Duospace
+Homepage:   https://github.com/iaolo/iA-Fonts
+Download:   https://github.com/iaolo/iA-Fonts
+Version:    2018-01
+License:    Open Font License, Apache License
+Publisher:  iA
+Designer:   IBM Corporation
+Designed:   2017
+Derivation: IBM Plex Mono
+
+This is a modification of IBM's Plex Mono font for use in iA Writer.
