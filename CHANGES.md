@@ -5,6 +5,8 @@ CHANGES
 3.7.7
 -----
 
+- updated Vollkorn with Small Caps font variants
+
 - added new font family Ranga
 
 - updated IBM Plex font family
