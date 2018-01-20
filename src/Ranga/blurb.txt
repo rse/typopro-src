@@ -1,0 +1,10 @@
+Name:       Ranga
+Homepage:   https://github.com/antonxheight/Ranga
+Download:   https://github.com/antonxheight/Ranga
+Version:    1.0.2 (2014)
+License:    Open Font License
+Publisher:  TipTopTyp
+Designer:   TipTopTyp
+Designed:   2014
+Derivation: none
+
