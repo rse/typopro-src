@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.7.8
+-----
+
+- updated IBM Plex font family
+
 3.7.7
 -----
 
