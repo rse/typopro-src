@@ -5,6 +5,10 @@ CHANGES
 3.7.8
 -----
 
+- updated FiraSans font family
+
+- updated FiraCode font family
+
 - updated IBM Plex font family
 
 3.7.7
