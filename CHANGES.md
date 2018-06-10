@@ -7,6 +7,8 @@ CHANGES
 
 - added YoungSerif font
 
+- updated Hack font family
+
 3.7.8
 -----
 
