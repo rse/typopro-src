@@ -1,0 +1,10 @@
+Name:       YoungSerif
+Homepage:   http://uplaod.fr/fonts/young-serif-2/
+Download:   https://github.com/uplaod/youngserif
+Version:    2.37 (2016-07)
+License:    Open Font License 1.1
+Publisher:  Uplaod
+Designer:   Georges Chaulet, Jean Gabriel Franchini, Esteban Gonzalez, Leo Malherbe, Bastien Sozoo
+Designed:   2013
+Derivation: none
+

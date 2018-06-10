@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+3.7.9
+-----
+
+- added YoungSerif font
+
 3.7.8
 -----
 
