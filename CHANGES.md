@@ -9,6 +9,8 @@ CHANGES
 
 - updated Hack font family
 
+- updated Fira Sans font family
+
 3.7.8
 -----
 
