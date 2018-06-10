@@ -11,6 +11,8 @@ CHANGES
 
 - updated Fira Sans font family
 
+- updated Work Sans font family
+
 3.7.8
 -----
 
