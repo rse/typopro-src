@@ -7,6 +7,8 @@ CHANGES
 
 - added YoungSerif font
 
+- added Poppins font family
+
 - updated Hack font family
 
 - updated Fira Sans font family
