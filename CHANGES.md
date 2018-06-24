@@ -2,6 +2,14 @@
 CHANGES
 =======
 
+4.0.0
+-----
+
+- switched from internal hand-crafted typopro-npm.js script to external
+  npm-install-fetch module for fetching the externalized resources.
+
+- removed bower.json as Bower is a dead technology
+
 3.7.9
 -----
 
