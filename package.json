@@ -32,7 +32,7 @@
         "input":   "https://github.com/rse/typopro-src/archive/4.0.0.tar.gz",
         "extract": true,
         "strip":   1,
-        "filter":  [ "src/*" ],
+        "filter":  [ "src/**" ],
         "output":  "."
     }
 }
