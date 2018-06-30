@@ -2,10 +2,17 @@
 CHANGES
 =======
 
-4.0.1
+4.0.2
 -----
 
 - added Antonio font family
+
+- upgraded and extended Asap font family
+
+4.0.1
+-----
+
+- infrastructure bugfixes
 
 4.0.0
 -----
