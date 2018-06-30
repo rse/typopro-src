@@ -13,6 +13,8 @@ CHANGES
 
 - added Merienda font family
 
+- added Leckerli One font
+
 - upgraded and extended Asap font family
 
 4.0.1
