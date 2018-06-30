@@ -1,0 +1,9 @@
+Name:       Amaranth
+Homepage:   https://www.fontsquirrel.com/fonts/amaranth
+Download:   https://www.fontsquirrel.com/fonts/amaranth
+Version:    1.000 (2011)
+License:    Open Font License
+Publisher:  Gesine Todt
+Designer:   Gesine Todt
+Designed:   2011
+Derivation: none

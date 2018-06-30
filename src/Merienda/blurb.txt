@@ -1,0 +1,9 @@
+Name:       Merienda
+Homepage:   https://fonts.google.com/specimen/Merienda
+Download:   https://fonts.google.com/specimen/Merienda
+Version:    1.001 (2012)
+License:    Open Font License
+Publisher:  Eduardo Tunni
+Designer:   Eduardo Tunni
+Designed:   2012
+Derivation: none
