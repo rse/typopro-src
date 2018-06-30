@@ -7,6 +7,8 @@ CHANGES
 
 - added Antonio font family
 
+- added Caveat font family
+
 - upgraded and extended Asap font family
 
 4.0.1

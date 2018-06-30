@@ -1,0 +1,9 @@
+Name:       Caveat
+Homepage:   https://github.com/googlefonts/caveat
+Download:   https://github.com/googlefonts/caveat
+Version:    1.500 (2017-12)
+License:    Open Font License
+Publisher:  Google Fonts
+Designer:   Pablo Impallari
+Designed:   2017
+Derivation: Bitstream Vera
