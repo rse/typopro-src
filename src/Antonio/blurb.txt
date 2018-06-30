@@ -1,0 +1,9 @@
+Name:       Antonio
+Homepage:   https://github.com/vernnobile/antonioFont
+Download:   https://github.com/vernnobile/antonioFont
+Version:    1.01 (2013-07)
+License:    Open Font License
+Publisher:  Vernon Adams
+Designer:   Vernon Adams
+Designed:   2012
+Derivation: Anton

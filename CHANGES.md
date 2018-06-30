@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.0.1
+-----
+
+- added Antonio font family
+
 4.0.0
 -----
 
