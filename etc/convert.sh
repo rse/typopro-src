@@ -121,7 +121,7 @@ for line in `cat etc/manifest.txt | egrep "$pattern"`; do
     fi
 
     #   determine font conversion command (Web formats)
-    cmd1="$cmd -u '0000-00FF'"
+    cmd1="$cmd -u '0000-00FF,2000-20CF,FB00-FB06'"
     cmd1="$cmd1 -O \"eot,ttf,woff,css\""
     cmd1="$cmd1 -o \"$webdir/$prefix-$name/\""
     cmd1="$cmd1 \"$srcdir/$font\""

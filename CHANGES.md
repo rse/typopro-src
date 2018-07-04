@@ -2,8 +2,12 @@
 CHANGES
 =======
 
-4.0.2
+4.1.0
 -----
+
+- changed Unicode character set of Web font variants from 0000-00FF to
+  0000-00FF,2000-20CF,FB00-FB06 and this way include a bunch of essential
+  glyphs per font.
 
 - added Antonio font family
 
