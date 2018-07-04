@@ -2,6 +2,12 @@
 CHANGES
 =======
 
+4.1.1
+-----
+
+- upgraded to latest npm-install-fetch to no longer hard-code
+  value in package.json:npm-install-fetch section.
+
 4.1.0
 -----
 
