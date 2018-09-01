@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.1.2
+-----
+
+- upgraded Montserrat font family
+
 4.1.1
 -----
 
