@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.1.3
+-----
+
+- upgraded Inter UI font family
+
 4.1.2
 -----
 

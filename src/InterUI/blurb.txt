@@ -1,7 +1,7 @@
 Name:       Inter UI
 Homepage:   https://rsms.me/inter/
-Download:   https://github.com/rsms/inter/releases/tag/v2.2
-Version:    2.2 (2017-10)
+Download:   https://github.com/rsms/inter
+Version:    3.1 (2018-12)
 License:    Open Font License
 Publisher:  Rasmus
 Designer:   Rasmus
