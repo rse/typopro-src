@@ -2,7 +2,7 @@
 CHANGES
 =======
 
-4.1.3
+4.1.2
 -----
 
 - added Libertinus font family
@@ -10,9 +10,6 @@ CHANGES
 - added Public Sans font family
 
 - upgraded Inter UI font family (and renamed to Inter)
-
-4.1.2
------
 
 - upgraded Montserrat font family
 
