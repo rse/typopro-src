@@ -5,6 +5,8 @@ CHANGES
 4.1.2
 -----
 
+- updated Just Another Hand font
+
 - added Literata Book font family
 
 - added PT Root UI font family
