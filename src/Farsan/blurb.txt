@@ -1,0 +1,9 @@
+Name:       Farsan
+Homepage:   https://github.com/anexasajoop/farsan
+Download:   https://github.com/anexasajoop/farsan
+Version:    0.1 (2015-11)
+License:    Open Font License
+Publisher:  Pooja Saxena
+Designer:   Pooja Saxena
+Designed:   2015
+Derivation: none

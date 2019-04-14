@@ -5,6 +5,8 @@ CHANGES
 4.1.2
 -----
 
+- added Farsan font
+
 - updated Just Another Hand font
 
 - added Literata Book font family
