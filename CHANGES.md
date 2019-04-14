@@ -5,6 +5,8 @@ CHANGES
 4.2.0
 -----
 
+- updated Poppins font family
+
 - updated Muli font family
 
 - updated IBM Plex font family
