@@ -1,0 +1,9 @@
+Name:       Public Sans
+Homepage:   https://public-sans.digital.gov/
+Download:   https://github.com/uswds/public-sans
+Version:    1.0.0 (2018-10)
+License:    Open Font License
+Publisher:  Impallari Type
+Designer:   Impallari Type
+Designed:   2018
+Derivation: Libre Franklin
