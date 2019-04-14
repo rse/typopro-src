@@ -1,0 +1,16 @@
+Name:       Bodoni
+Homepage:   https://indestructibletype.com/Bodoni.html
+Download:   https://indestructibletype.com/Bodoni.html
+Version:    1.0 (2019-04)
+License:    Open Font License
+Publisher:  indestructible type
+Designer:   indestructible type
+Designed:   2019
+Derivation: Bodoni
+
+Giambattista Bodoni is known for creating one of the first "modern
+serif" typefaces. Advances in printing technology during the late
+eighteenth century allowed Bodoni to design letterforms with higher
+contrast between thick and thin strokes, and crisp horizontal serifs.
+The result is a typeface that’s recognizably elegant, refined, and
+remains popular centuries after its creation.

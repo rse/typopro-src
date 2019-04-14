@@ -1,0 +1,10 @@
+Name:       PT Root UI
+Homepage:   https://www.paratype.com/fonts/pt/pt-root-ui
+Download:   https://www.paratype.com/fonts/pt/pt-root-ui
+Version:    1.000 (2019-01)
+License:    Open Font License
+Publisher:  ParaType
+Designer:   Vitaly Kuzmin
+Designed:   2018
+Derivation: none
+

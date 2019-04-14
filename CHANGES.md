@@ -5,6 +5,10 @@ CHANGES
 4.1.2
 -----
 
+- added PT Root UI font family
+
+- added Bodoni font family
+
 - added Libertinus font family
 
 - added Public Sans font family
