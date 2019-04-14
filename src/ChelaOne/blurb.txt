@@ -1,0 +1,9 @@
+Name:       Chela Onbe
+Homepage:   https://www.fontsquirrel.com/fonts/chela-one
+Download:   https://www.fontsquirrel.com/fonts/chela-one
+Version:    1.001 (2012)
+License:    Open Font License
+Publisher:  LatinoType
+Designer:   LatinoType
+Designed:   2012
+Derivation: none

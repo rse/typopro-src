@@ -2,8 +2,10 @@
 CHANGES
 =======
 
-4.1.2
+4.2.0
 -----
+
+- added Chela One font
 
 - added Farsan font
 
