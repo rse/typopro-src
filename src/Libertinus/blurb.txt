@@ -1,0 +1,14 @@
+Name:       Libertinus
+Homepage:   https://github.com/libertinus-fonts/libertinus
+Download:   https://github.com/libertinus-fonts/libertinus
+Version:    6.8 (2019-04)
+License:    Open Font License
+Publisher:  Philipp H. Poll et al.
+Designer:   Philipp H. Poll et al.
+Designed:   2012
+Derivation: Linux Libertine, Linux Libertine Mono, Linux Biolinum
+
+Libertinus fonts is a fork of the Linux Libertine and Linux Biolinum
+fonts that started as an OpenType math companion of the Libertine font
+family. It has grown to a full fork to address some of the bugs in the
+fonts. Thanks to Frédéric Wang for coming up with the name Libertinus.
