@@ -5,6 +5,8 @@ CHANGES
 4.2.0
 -----
 
+- added Crimson Pro font family
+
 - updated Barlow font family
 
 - updated Aleo font family
