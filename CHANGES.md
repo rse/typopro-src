@@ -5,6 +5,8 @@ CHANGES
 4.2.0
 -----
 
+- updated Aleo font family
+
 - added Chela One font
 
 - added Farsan font
