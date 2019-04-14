@@ -5,6 +5,8 @@ CHANGES
 4.1.2
 -----
 
+- added Literata Book font family
+
 - added PT Root UI font family
 
 - added Bodoni font family
