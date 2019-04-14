@@ -5,6 +5,8 @@ CHANGES
 4.2.0
 -----
 
+- updated IBM Plex font family
+
 - added Crimson Pro font family
 
 - updated Barlow font family
