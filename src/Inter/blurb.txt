@@ -1,11 +1,11 @@
-Name:       Inter UI
+Name:       Inter
 Homepage:   https://rsms.me/inter/
 Download:   https://github.com/rsms/inter
-Version:    3.1 (2018-12)
+Version:    3.5 (2019-04)
 License:    Open Font License
 Publisher:  Rasmus
 Designer:   Rasmus
 Designed:   2017
 Derivation: Roboto
 
-Inter UI is a font for highly legible text on computer screens.
+Inter is a font for highly legible text on computer screens.

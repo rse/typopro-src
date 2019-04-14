@@ -5,7 +5,11 @@ CHANGES
 4.1.3
 -----
 
-- upgraded Inter UI font family
+- added Libertinus font family
+
+- added Public Sans font family
+
+- upgraded Inter UI font family (and renamed to Inter)
 
 4.1.2
 -----
