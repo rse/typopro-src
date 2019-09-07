@@ -5,6 +5,8 @@ CHANGES
 4.2.1
 -----
 
+- updated Libertinus font family
+
 - added Livvic font family
 
 - added Chilanka font
