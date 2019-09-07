@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.2.2
+-----
+
+- updated Roboto font family
+
 4.2.1
 -----
 

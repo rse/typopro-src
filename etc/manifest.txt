@@ -1201,6 +1201,8 @@ Roboto/RobotoCondensed-Light.ttf                     family="Roboto" stretch="co
 Roboto/RobotoCondensed-LightItalic.ttf               family="Roboto" stretch="condensed"
 Roboto/RobotoCondensed-Regular.ttf                   family="Roboto" stretch="condensed"
 Roboto/RobotoCondensed-Italic.ttf                    family="Roboto" stretch="condensed"
+Roboto/RobotoCondensed-Medium.ttf                    family="Roboto" stretch="condensed"
+Roboto/RobotoCondensed-MediumItalic.ttf              family="Roboto" stretch="condensed"
 Roboto/RobotoCondensed-Bold.ttf                      family="Roboto" stretch="condensed"
 Roboto/RobotoCondensed-BoldItalic.ttf                family="Roboto" stretch="condensed"
 Roboto/RobotoSlab-Thin.ttf                           family="Roboto Slab"
