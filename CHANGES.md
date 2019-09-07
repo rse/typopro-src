@@ -5,6 +5,8 @@ CHANGES
 4.2.1
 -----
 
+- updated Literata font family
+
 - updated Inter font family
 
 - updated Libertinus font family
