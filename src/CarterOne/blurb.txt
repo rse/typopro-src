@@ -1,0 +1,9 @@
+Name:       Carter One
+Homepage:   https://www.dafontfree.io/carter-one-font/
+Download:   https://www.dafontfree.io/carter-one-font/
+Version:    1.000 (2011)
+License:    OFL
+Publisher:  Vernon Adams
+Designer:   Vernon Adams
+Designed:   2011
+Derivation: none
