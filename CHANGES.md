@@ -5,6 +5,8 @@ CHANGES
 4.2.1
 -----
 
+- added Chilanka font
+
 - added Carter One font
 
 - updated Source Serif Pro family

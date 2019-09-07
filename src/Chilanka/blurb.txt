@@ -1,0 +1,15 @@
+Name:       Chilanka
+Homepage:   https://github.com/smc/Chilanka
+Download:   https://github.com/smc/Chilanka
+Version:    1.4.00 (2019-96)
+License:    Open Font License
+Publisher:  Santhosh Thottingal
+Designer:   Santhosh Thottingal
+Designed:   2014
+Derivation: none
+
+Chilanka is Malayalam handwriting style font designed by Santhosh
+Thottingal. Chilanka follows the common style one can see in everyday
+handwriting of Malayalam. It has a comprehensive Malayalam glyph set
+that contains most of the unique Malayalam conjuncts.
+
