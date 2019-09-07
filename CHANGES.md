@@ -5,6 +5,8 @@ CHANGES
 4.2.1
 -----
 
+- updated Inter font family
+
 - updated Libertinus font family
 
 - added Livvic font family
