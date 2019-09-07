@@ -2,6 +2,15 @@
 CHANGES
 =======
 
+4.2.1
+-----
+
+- added Carter One font
+
+- updated Source Serif Pro family
+
+- updated Source Sans Pro family
+
 4.2.0
 -----
 
