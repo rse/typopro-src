@@ -5,6 +5,8 @@ CHANGES
 4.2.1
 -----
 
+- added Livvic font family
+
 - added Chilanka font
 
 - added Carter One font
