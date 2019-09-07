@@ -5,6 +5,8 @@ CHANGES
 4.2.2
 -----
 
+- updated Asap font family
+
 - updated Roboto font family
 
 4.2.1
