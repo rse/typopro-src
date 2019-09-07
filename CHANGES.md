@@ -5,6 +5,8 @@ CHANGES
 4.2.2
 -----
 
+- updated Caveat font family
+
 - updated Dosis font family
 
 - updated Astloch font family
