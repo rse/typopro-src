@@ -5,6 +5,8 @@ CHANGES
 4.2.2
 -----
 
+- updated Dosis font family
+
 - updated Astloch font family
 
 - updated Asap font family
