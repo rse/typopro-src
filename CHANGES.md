@@ -5,6 +5,8 @@ CHANGES
 4.2.3
 -----
 
+- added Dekko font
+
 - added Victor Mono font family
 
 - added new weights to Roboto Slab font family

@@ -1,0 +1,9 @@
+Name:       Dekko
+Homepage:   https://github.com/SorkinType/Dekko
+Download:   https://github.com/SorkinType/Dekko
+Version:    1.001 (2014)
+License:    Open Font License 1.1
+Publisher:  Eben Sorkin
+Designer:   Eben Sorkin
+Designed:   2014
+Derivation: none
