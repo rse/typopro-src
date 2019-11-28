@@ -1,0 +1,9 @@
+Name:       DejaVu
+Homepage:   https://www.sudtipos.com/font/aladin-pro
+Download:   https://fonts.google.com/specimen/Aladin
+Version:    1.000 (2009)
+License:    Open Font License 1.1
+Publisher:  Sudtipos
+Designer:   Angel Koziupa
+Designed:   2009
+Derivation: none

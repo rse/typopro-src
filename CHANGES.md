@@ -5,6 +5,8 @@ CHANGES
 4.2.3
 -----
 
+- added Aladin font
+
 - added Dekko font
 
 - added Victor Mono font family
