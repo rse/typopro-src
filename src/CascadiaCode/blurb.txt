@@ -1,0 +1,16 @@
+Name:       Cascadia Code
+Homepage:   https://github.com/microsoft/cascadia-code
+Download:   https://github.com/microsoft/cascadia-code
+Version:    1909.16 (2019-09)
+License:    Open Font License
+Publisher:  Microsoft
+Designer:   Microsoft
+Designed:   2019
+Derivation: none
+
+Cascadia Code is the latest monospaced font shipped from Microsoft
+and provides a fresh experience for command line experiences and code
+editors. Cascadia Code was developed hand-in-hand with the new Windows
+Terminal application. This font is most recommended to be used with
+terminal applications and text editors such as Visual Studio and Visual
+Studio Code.

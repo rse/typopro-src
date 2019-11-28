@@ -1,0 +1,9 @@
+Name:       Victor Mono
+Homepage:   https://rubjo.github.io/victor-mono/
+Download:   https://rubjo.github.io/victor-mono/
+Version:    2.37 (2016-07)
+License:    MIT
+Publisher:  Rune Bjørnerås
+Designer:   Rune Bjørnerås
+Designed:   2019
+Derivation: none

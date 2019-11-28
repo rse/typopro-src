@@ -2,6 +2,15 @@
 CHANGES
 =======
 
+4.2.3
+-----
+
+- added Victor Mono font family
+
+- added new weights to Roboto Slab font family
+
+- added Cascadia Code font
+
 4.2.2
 -----
 
