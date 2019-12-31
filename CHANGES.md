@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.2.4
+-----
+
+- updated Liberation font family
+
 4.2.3
 -----
 
