@@ -1,0 +1,15 @@
+Name:       Gelasio
+Homepage:   https://github.com/SorkinType/Gelasio
+Download:   https://github.com/SorkinType/Gelasio
+Version:    1.000 (2019)
+License:    Open Font License 1.1
+Publisher:  Eben Sorkin
+Designer:   Eben Sorkin, Viviana Monsalve
+Designed:   2019
+Derivation: none
+
+Gelasio is an original typeface which is metrics compatible with Georgia
+in its Regular, Bold, Italic and Bold Italic weights. Medium, Medium
+Italic, SemiBold and SemiBold Italic have now been added as well but
+these don't have equivalents in Georgia.
+

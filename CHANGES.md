@@ -2,8 +2,10 @@
 CHANGES
 =======
 
-4.2.4
+4.2.3
 -----
+
+- added Gelasio font family
 
 - added Chomsky font
 
@@ -12,9 +14,6 @@ CHANGES
 - extended Courier Prime font family
 
 - updated Liberation font family
-
-4.2.3
------
 
 - added Aladin font
 
