@@ -5,6 +5,8 @@ CHANGES
 4.2.4
 -----
 
+- added Solway font family
+
 - extended Courier Prime font family
 
 - updated Liberation font family

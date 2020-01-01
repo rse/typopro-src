@@ -1,0 +1,19 @@
+Name:       Solway
+Homepage:   https://github.com/mashavp/Solway
+Download:   https://github.com/mashavp/Solway
+Version:    1.000 (2019-10)
+License:    Open Font License 1.1
+Publisher:  The Northern Block
+Designer:   Mariya V. Pigoulevskaya
+Designed:   2018
+Derivation: none
+
+Solway is a playful slab-serif with a charming and understated tone
+of voice, inspired by the warmth of community and the idyll of
+rural-living. It is a contemporary family defined by the soft corners,
+ball terminals, rounded slabs that give it a welcoming and friendly
+appeal. Its monoline structure and minimal stroke contrast aspire to
+cohesion and stability. Available in five weights, it is suitable for a
+variety of projects. It could find perfect expression within lifestyle
+brands or nature, travel and foodie blogs.
+
