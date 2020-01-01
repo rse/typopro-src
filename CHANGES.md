@@ -5,6 +5,8 @@ CHANGES
 4.2.4
 -----
 
+- added Chomsky font
+
 - added Solway font family
 
 - extended Courier Prime font family
