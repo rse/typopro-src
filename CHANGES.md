@@ -5,6 +5,8 @@ CHANGES
 4.2.4
 -----
 
+- upgraded Cascadia Code font
+
 - added JetBrains Mono font family
 
 4.2.3
