@@ -5,6 +5,8 @@ CHANGES
 4.2.4
 -----
 
+- updated Inter font family
+
 - upgraded Cascadia Code font
 
 - added JetBrains Mono font family
