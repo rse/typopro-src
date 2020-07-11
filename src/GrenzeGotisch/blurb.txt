@@ -1,0 +1,10 @@
+Name:       Grenze Gotisch
+Homepage:   https://github.com/Omnibus-Type/Grenze-Gotisch
+Download:   https://fonts.google.com/specimen/Grenze+Gotisch
+Version:    1.00 (2020-01)
+License:    Open Font License
+Publisher:  Omnibus Type
+Designer:   Renata Polastri
+Designed:   2020
+Derivation: Grenze
+

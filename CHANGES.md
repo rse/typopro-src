@@ -5,6 +5,8 @@ CHANGES
 4.2.4
 -----
 
+- added Grenze Gotisch font family
+
 - updated Inter font family
 
 - upgraded Cascadia Code font
