@@ -5,6 +5,8 @@ CHANGES
 4.2.4
 -----
 
+- upgraded Cabin font family
+
 - added JuliaMono font family
 
 - added Rosario font family
