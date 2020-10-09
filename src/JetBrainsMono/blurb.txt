@@ -1,7 +1,7 @@
 Name:       JetBrains Mono
 Homepage:   https://www.jetbrains.com/lp/mono/
-Download:   https://download.jetbrains.com/fonts/JetBrainsMono-1.0.0.zip
-Version:    1.0.0 (2020-01)
+Download:   https://www.jetbrains.com/lp/mono/
+Version:    2.001 (2020-10)
 License:    Apache
 Publisher:  JetBrains
 Designer:   JetBrains
