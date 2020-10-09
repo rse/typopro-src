@@ -5,6 +5,12 @@ CHANGES
 4.2.4
 -----
 
+- added JuliaMono font family
+
+- added Rosario font family
+
+- upgraded Source Sans Pro font family
+
 - added Grenze Gotisch font family
 
 - updated Inter font family

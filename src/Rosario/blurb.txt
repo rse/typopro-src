@@ -1,5 +1,5 @@
 Name:       Rosario
-Homepage:   http://omnibus-type.com/
+Homepage:   https://www.omnibus-type.com/fonts/rosario/
 Download:   http://www.google.com/fonts/download?kit=Fl8GJPV1aS2Rzf0v-pFTbqCWcynf_cDxXwCLxiixG1c
 Version:    1.003
 License:    Open Font License
