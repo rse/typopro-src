@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated JetBrains Mono font family
+
 - added NX Baskerville font family
 
 - added STEP font family
