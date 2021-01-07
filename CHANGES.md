@@ -5,6 +5,10 @@ CHANGES
 4.2.5
 -----
 
+- added NX Baskerville font family
+
+- added STEP font family
+
 - added Garamond Libre font family
 
 - added Charter font family

@@ -1,0 +1,20 @@
+Name:       STEP
+Homepage:   https://github.com/dbenjaminmiller/step
+Download:   https://github.com/dbenjaminmiller/step
+Version:    2.0.5 (2021-01)
+License:    Open Font License
+Publisher:  Daniel Benjamin Miller, STIX/XITS
+Designer:   Stanley Morison et al
+Designed:   1931
+Derivation: Times
+
+STEP is a Times-like type typeface for publishing. It is based on the
+STIX and XITS fonts, and includes support for OpenType mathematical
+typesetting, usable with LuaTeX, XeTeX and Microsoft Office.
+
+The STEP fonts were forked from XITS and include all the same features.
+The metrics of STEP were changed in order to align with the version of
+Times most commonly used in publishing. Superior and inferior figures,
+small caps (for the regular font only) and old-style figures are all
+included and accessible via OpenType features.
+
