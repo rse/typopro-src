@@ -1,0 +1,30 @@
+Name:       Charter
+Homepage:   https://practicaltypography.com/charter.html
+Download:   https://practicaltypography.com/charter.html
+Version:    2.0-1.0 (1992)
+License:    MIT
+Publisher:  Bitstream, X Consortium
+Designer:   Matthew Carter
+Designed:   2019
+Derivation: none
+
+Charter was designed by Matthew Carter in 1987 as a body text font that
+would hold up well on low-resolution output devices of the day—fax
+machines and 300 dpi laser printers.
+
+Though 300 dpi printing is long gone, most of today’s computer
+displays operate far below 300 dpi. Charter, unsurprisingly, holds up
+admirably well as a screen font. (Matthew would go on to design the
+quintessential screen fonts Verdana and Georgia for Microsoft.)
+
+In 1992, Bitstream contributed PostScript versions of the basic Charter
+family to the X Consortium. These original files are still available and
+can be freely downloaded and modified. But they can be hard to find. So
+I tracked them down and converted them into a new package of OTFs, TTFs,
+and webfonts.
+
+Why? Because Charter is a great font, and easily one of the best free
+fonts available. So I’m doing what I can to put more Charter into the
+world. If your project demands a font without licensing restrictions,
+consider it.
+

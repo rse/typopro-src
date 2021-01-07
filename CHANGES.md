@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.2.5
+-----
+
+- added Charter font family
+
 4.2.4
 -----
 
