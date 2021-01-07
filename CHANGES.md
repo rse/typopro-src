@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- added Garamond Libre font family
+
 - added Charter font family
 
 - added Domitian font family
