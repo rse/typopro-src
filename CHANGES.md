@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated Bitter font family
+
 - updated JetBrains Mono font family
 
 - added NX Baskerville font family
