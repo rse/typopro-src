@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated Lora font family
+
 - updated League Mono font family
 
 - updated League Gothic font family
