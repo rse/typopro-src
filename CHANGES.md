@@ -5,6 +5,10 @@ CHANGES
 4.2.5
 -----
 
+- updated Inconsolata font family
+
+- added Georama font family
+
 - updated Bitter font family
 
 - updated JetBrains Mono font family

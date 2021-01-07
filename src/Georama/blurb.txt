@@ -1,0 +1,13 @@
+Name:       Georama
+Homepage:   https://github.com/productiontype/Georama
+Download:   https://github.com/productiontype/Georama
+Version:    1.001 (2020-09)
+License:    Open Font License
+Publisher:  Production Type
+Designer:   Production Type
+Designed:   2020
+Derivation: none
+
+Georama originally has 8(!) font families(!), but the expanded ones are
+not really beautiful IMHO, so I've not included them into TypoPRO -- RSE
+
