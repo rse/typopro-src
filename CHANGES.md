@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated League Gothic font family
+
 - updated Inconsolata font family
 
 - added Georama font family
