@@ -1,0 +1,19 @@
+Name:       Domitian
+Homepage:   https://github.com/dbenjaminmiller/domitian
+Download:   https://github.com/dbenjaminmiller/domitian
+Version:    1.0.1 (2020-04)
+License:    Open Font License 1.1
+Publisher:  Daniel Benjamin Miller
+Designer:   Hermann Zapf, (URW)++
+Designed:   2014
+Derivation: Palatino
+
+Domitian is a project to develop a full-featured, free and open-source
+implementation of Hermann Zapf's Palatino design. "Domitian" is in
+reference to builder of the Flavian Palace, located on the Palatine
+Hill.
+
+"You may use this font according to the SIL OFL 1.1, GNU AGPL (with font
+exception), LaTeX Project Public License, or any combination thereof.
+See COPYING for details."
+

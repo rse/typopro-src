@@ -7,6 +7,8 @@ CHANGES
 
 - added Charter font family
 
+- added Domitian font family
+
 4.2.4
 -----
 
