@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated Source Serif Pro family
+
 - updated Sansita font family
 
 - added Petrona font family
