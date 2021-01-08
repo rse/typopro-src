@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated Work Sans font family
+
 - updated Vollkorn font family
 
 - updated Source Code Pro font family
