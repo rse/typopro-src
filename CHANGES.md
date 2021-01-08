@@ -5,9 +5,11 @@ CHANGES
 4.2.5
 -----
 
-- updated Source Code Pro family
+- updated Vollkorn font family
 
-- updated Source Serif Pro family
+- updated Source Code Pro font family
+
+- updated Source Serif Pro font family
 
 - updated Sansita font family
 
