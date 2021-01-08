@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated Merriweather font family
+
 - updated Lora font family
 
 - updated League Mono font family
