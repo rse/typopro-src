@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- added Petrona font family
+
 - updated Merriweather font family
 
 - updated Lora font family
