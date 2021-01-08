@@ -5,6 +5,8 @@ CHANGES
 4.2.5
 -----
 
+- updated Sansita font family
+
 - added Petrona font family
 
 - updated Merriweather font family
