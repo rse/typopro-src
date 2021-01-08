@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.2.6
+-----
+
+- fixed NX Baskerville font family
+
 4.2.5
 -----
 
