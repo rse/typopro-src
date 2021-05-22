@@ -2,7 +2,7 @@ Name:       Merriweather
 Homepage:   http://sorkintype.com/fonts.html
 Download:   http://www.google.com/fonts#UsePlace:use/Collection:Merriweather
 Download:   http://www.google.com/fonts#UsePlace:use/Collection:Merriweather+Sans
-Download:   https://github.com/EbenSorkin/Merriweather
+Download:   https://github.com/SorkinType/Merriweather/
 Version:    2.002 (2017-11)
 License:    Open Font License 1.1
 Publisher:  Sorkin Type Co
