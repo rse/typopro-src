@@ -7,6 +7,8 @@ CHANGES
 
 - fixed NX Baskerville font family
 
+- updated JetBrains Mono font family
+
 4.2.5
 -----
 
