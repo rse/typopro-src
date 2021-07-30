@@ -9,6 +9,8 @@ CHANGES
 
 - updated JetBrains Mono font family
 
+- updated Inter font family
+
 4.2.5
 -----
 
