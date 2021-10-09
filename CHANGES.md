@@ -5,6 +5,10 @@ CHANGES
 4.2.6
 -----
 
+- updated Merriweather Sans font family
+
+- updated Merriweather font family
+
 - updated Source Sans Pro font family
 
 - updated Source Serif Pro font family
