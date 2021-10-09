@@ -5,6 +5,12 @@ CHANGES
 4.2.6
 -----
 
+- updated Source Sans Pro font family
+
+- updated Source Serif Pro font family
+
+- updated Source Code Pro font family
+
 - fixed NX Baskerville font family
 
 - updated JetBrains Mono font family
