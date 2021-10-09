@@ -1,0 +1,13 @@
+Name:       Calistoga
+Homepage:   https://github.com/SorkinType/Calistoga
+Download:   https://github.com/SorkinType/Calistoga
+Version:    1.005 (2019)
+License:    Open Font License 1.1
+Publisher:  Sorkin Type Co
+Designer:   Yvonne Schuttler
+Designed:   2011
+Derivation: none
+
+Calistoga is a versatile semibold serif font. Calistoga was inspired by
+the posters Oscar M. Bryn made for the Santa Fe Railroad. Designed by
+Yvonne Schuttler, and expanded by Eben Sorkin

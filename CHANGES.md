@@ -5,6 +5,8 @@ CHANGES
 4.2.6
 -----
 
+- added Calistoga font
+
 - updated Merriweather Sans font family
 
 - updated Merriweather font family
