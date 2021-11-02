@@ -1,0 +1,10 @@
+Name:       Yrsa
+Homepage:   https://www.rosettatype.com/custom-fonts/Yrsa-Rasa
+Download:   https://github.com/rosettatype/yrsa-rasa/releases
+Version:    2.002 (2021-11)
+License:    Open Font License 1.1
+Publisher:  Google & Rosettatype
+Designer:   Anna Giedryś and David Březina
+Designed:   2011
+Derivation: Merriweather
+

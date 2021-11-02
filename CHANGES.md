@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.2.7
+-----
+
+- added Yrsa font family
+
 4.2.6
 -----
 
