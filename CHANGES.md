@@ -5,6 +5,10 @@ CHANGES
 4.2.7
 -----
 
+- added Licorice font
+
+- added Twinkle Star font
+
 - added Yrsa font family
 
 4.2.6

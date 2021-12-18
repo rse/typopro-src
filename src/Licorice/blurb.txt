@@ -1,0 +1,14 @@
+Name:       Licorice
+Homepage:   https://github.com/googlefonts/licorice
+Download:   https://github.com/googlefonts/licorice
+Version:    1.010 (2021-11)
+License:    Open Font Licence
+Publisher:  Google Fonts
+Designer:   Robert Leuschke
+Designed:   2021
+Derivation: -
+
+Licorice is a playful handwritten font that is perfect scrapbooking,
+cards, invitations and fun events. It comes with Latin Character sets
+including Western, Central, and Vietnamese language support.
+
