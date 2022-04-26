@@ -1,0 +1,10 @@
+Name:       Moonless SC
+Homepage:   https://franzidraws.com/freebie.html
+Download:   https://franzidraws.com/css/fonts/MoonlessSC-Regular.otf
+Version:    1.000 (2022-02)
+License:    Open Font License 1.1
+Publisher:  Franzi Draws
+Designer:   Franzi Draws
+Designed:   2022
+Derivation: none
+

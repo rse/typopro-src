@@ -1919,6 +1919,7 @@ ShadowsIntoLightTwo/ShadowsIntoLightTwo-Regular.ttf  family="Shadows Into Light 
 Paprika/Paprika-Regular.ttf                          family="Paprika"
 Chilanka/Chilanka-Regular.ttf                        family="Chilanka"
 Handlee/Handlee-Regular.ttf                          family="Handlee"
+MoonlessSC/MoonlessSC-Regular.otf                    family="Moonless SC"
 Macondo/Macondo-Regular.ttf                          family="Macondo"
 Macondo/MacondoSwashCaps-Regular.ttf                 family="Macondo Swash Caps"
 Journal/Journal-Regular.ttf                          family="Journal"

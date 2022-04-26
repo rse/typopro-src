@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- added Moonless SC font
+
 - added Radio Canada font family
 
 - added Licorice font
