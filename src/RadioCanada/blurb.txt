@@ -1,0 +1,21 @@
+Name:       Radio Canada
+Homepage:   https://github.com/cbcrc/radiocanadafonts
+Download:   https://github.com/cbcrc/radiocanadafonts/releases/download/v2.100/radiocanada-fonts-v2.100.zip
+Version:    2.100 (2021)
+License:    Open Font License 1.1
+Publisher:  Radio Canada
+Designer:   Charles Daoud
+Designed:   2017
+Derivation: none
+
+CBC/Radio-Canada is a Canadian Crown corporation serving as the
+national public radio and television broadcaster. The English- and
+French-language service units of the corporation are commonly known
+as CBC and Radio-Canada, respectively. In early 2017, work started on
+a custom typeface for use by CBC/Radio-Canada. In 2021 this typeface
+was expanded to cover a wider range of weights and now includes roman
+and italic variable fonts. Work on support for the Unified Canadian
+Aboriginal Syllabics Unicode block is a possibility as this typeface
+continues to expand. This project has been selected as a winner at the
+2018 Communication Arts Typography competition in the Typeface Design
+category.

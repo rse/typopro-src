@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- added Radio Canada font family
+
 - added Licorice font
 
 - added Twinkle Star font
