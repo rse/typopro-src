@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- updated Paprika font
+
 - updated Andika font family
 
 - updated CharisSIL font family
