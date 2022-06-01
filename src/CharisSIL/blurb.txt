@@ -1,7 +1,7 @@
 Name:       Charis SIL
 Homepage:   https://software.sil.org/charis/
 Download:   https://software.sil.org/charis/download/
-Version:    5.000 (2014-10)
+Version:    6.101 (2022-02)
 License:    Open Font License 1.1
 Publisher:  SIL International
 Designer:   SIL International

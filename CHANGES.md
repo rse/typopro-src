@@ -5,6 +5,12 @@ CHANGES
 4.2.7
 -----
 
+- updated Andika font family
+
+- updated CharisSIL font family
+
+- updated Gentium Plus font family
+
 - added Moonless SC font
 
 - added Radio Canada font family
