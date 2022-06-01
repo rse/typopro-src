@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- updated Crimson Pro font family
+
 - updated Paprika font
 
 - updated Andika font family
