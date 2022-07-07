@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- added Lexend font family
+
 - updated Crimson Pro font family
 
 - updated Paprika font

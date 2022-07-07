@@ -1,0 +1,13 @@
+Name:       Lexend
+Homepage:   http://www.lexend.com/
+Download:   https://fonts.google.com/specimen/Lexend
+Version:    2.37 (2016-07)
+License:    Open Font License
+Publisher:  Google Fonts, CosmosDirekt
+Designer:   Dr. Bonnie Shaver-Troup
+Designed:   2000
+Derivation: none
+
+Google Fonts partnered with CosmosDirekt, a German insurance company, to
+expand Lexend in 2022, a typeface designed by Dr. Bonnie Shaver-Troup
+for readers with dyslexia and other reading challenges.
