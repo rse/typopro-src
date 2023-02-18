@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- updated Jetbrains Mono font family
+
 - added Lexend font family
 
 - updated Crimson Pro font family
