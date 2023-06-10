@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- added Intel One Mono font family
+
 - updated Fira Code font family
 
 - updated Jetbrains Mono font family

@@ -1,0 +1,8 @@
+Name:       IntelOneMono
+Homepage:   https://github.com/intel/intel-one-mono
+Download:   https://github.com/intel/intel-one-mono
+Version:    1.2.1 (2023-06)
+License:    Open Font License
+Publisher:  Intel
+Designer:   Frere-Jones Type
+Designed:   2023
