@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- added Instrument Serif font family
+
 - added Intel One Mono font family
 
 - updated Fira Code font family

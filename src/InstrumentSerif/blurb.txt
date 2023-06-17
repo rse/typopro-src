@@ -1,0 +1,8 @@
+Name:       Instrument Serif
+Homepage:   https://github.com/Instrument/instrument-serif
+Download:   https://github.com/Instrument/instrument-serif
+Version:    2023 (2023-06)
+License:    Open Font License
+Publisher:  Instrument
+Designer:   Instrument
+Designed:   2022
