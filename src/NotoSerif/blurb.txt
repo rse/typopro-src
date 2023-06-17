@@ -1,0 +1,14 @@
+Name:       Noto
+Homepage:   https://fonts.google.com/noto
+Download:   https://fonts.google.com/noto
+Version:    2023-05 (2023-05)
+License:    Apache License 2.0
+Publisher:  Open Handset Alliance, Google
+Designer:   Steve Metteson (Ascender)
+Designed:   2006
+Derivation: Droid
+
+Noto is a font family derived from Droid. that aims to support all the
+world’s languages. Its design goal is to achieve visual harmonization
+across languages.
+

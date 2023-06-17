@@ -1,7 +1,7 @@
-Name:       Noto
-Homepage:   http://www.google.com/get/noto/
-Download:   http://www.google.com/get/noto/
-Version:    2016-10-07
+Name:       Noto Sans
+Homepage:   https://fonts.google.com/noto
+Download:   https://fonts.google.com/noto
+Version:    2023-05 (2023-05)
 License:    Apache License 2.0
 Publisher:  Open Handset Alliance, Google
 Designer:   Steve Metteson (Ascender)

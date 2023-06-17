@@ -5,6 +5,12 @@ CHANGES
 4.2.7
 -----
 
+- updated Noto Serif font family
+
+- updated Noto Sans Mono font family
+
+- updated Noto Sans font family
+
 - added Instrument Serif font family
 
 - added Intel One Mono font family
