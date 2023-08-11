@@ -1,0 +1,20 @@
+Name:       Borel
+Homepage:   https://github.com/RosaWagner/Borel
+Download:   https://github.com/RosaWagner/Borel
+Version:    1.002 (2023-08)
+License:    Open Font License
+Publisher:  Rosalie Wagner
+Designer:   Rosalie Wagner
+Designed:   2023
+
+Borel, a typographic system for primary school. What considerations
+should be taken into account when approaching typography in the context
+of simultaneous learning of reading and writing? Borel is a French
+cursive primer — developed with primary school teachers and speech
+therapists — which aims to establish a seamless connection between
+cursive strokes and common typographic structure. This typeface, named
+in tribute to Suzanne Borel-Maisonny (a pioneer in speech therapy),
+boasts a sturdy design featuring low contrast and a generous x-height.
+The letters are intentionally open and clearly differentiated while
+adhering to the conventions of handwriting in French schools.
+
