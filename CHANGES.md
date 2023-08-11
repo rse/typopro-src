@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- added Borel font family
+
 - updated Noto Serif font family
 
 - updated Noto Sans Mono font family
