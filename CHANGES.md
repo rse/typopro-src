@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- updated Lexend font family
+
 - added Borel font family
 
 - updated Noto Serif font family
