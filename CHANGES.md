@@ -5,6 +5,10 @@ CHANGES
 4.2.7
 -----
 
+- added SNPro font family
+
+- added Cooper font family
+
 - added Shantell Sans font family
 
 - updated Lexend font family

@@ -1,0 +1,15 @@
+Name:       Cooper
+Homepage:   https://github.com/indestructible-type/Cooper
+Download:   https://github.com/indestructible-type/Cooper
+Version:    1.000 (2024)
+License:    Open Font License 1.1
+Publisher:  Barnhart Brothers & Spindler
+Designer:   Oswald Cooper, Owen Earl
+Designed:   2014
+Derivation: Cooper
+
+Cooper* is a meticulously researched, historically accurate revival of
+the Cooper series designed by Oswald Cooper and released by Barnhart
+Brothers & Spindler in the 1920s. Cooper* is designed and maintained by
+Owen Earl, who is the creator of the font foundry indestructible type*.
+

@@ -1,0 +1,10 @@
+Name:       SNPro
+Homepage:   https://supernotes.app/open-source/sn-pro/
+Download:   https://supernotes.app/open-source/sn-pro/
+Version:    1.0 (2024-02)
+License:    Open Font License
+Publisher:  Supernotes
+Designer:   Supernotes
+Designed:   2024
+Derivation: Nunito
+
