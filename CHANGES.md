@@ -5,6 +5,8 @@ CHANGES
 4.2.7
 -----
 
+- added Florida Vibes font
+
 - added SNPro font family
 
 - added Cooper font family
