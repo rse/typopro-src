@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.2.8
+-----
+
+- updated Inter font family
+
 4.2.7
 -----
 
