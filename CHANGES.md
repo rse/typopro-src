@@ -5,6 +5,10 @@ CHANGES
 4.2.8
 -----
 
+- added Brass Mono font family
+
+- added Drafting Mono font family
+
 - updated Inter font family
 
 4.2.7

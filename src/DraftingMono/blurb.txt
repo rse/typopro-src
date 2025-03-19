@@ -1,0 +1,8 @@
+Name:       Drafting Mono
+Homepage:   https://indestructibletype.com/Drafting/
+Download:   https://indestructibletype.com/Drafting/
+Version:    1.1 (2021-02)
+License:    Open Font License
+Publisher:  Indestructible Type
+Designer:   Owen Earl
+Designed:   2021

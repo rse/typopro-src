@@ -1,0 +1,8 @@
+Name:       Brass Mono
+Homepage:   https://github.com/fonsecapeter/brass_mono/
+Download:   https://github.com/fonsecapeter/brass_mono/
+Version:    1.101 (2025-02)
+License:    Open Font License
+Publisher:  Peter Fonseca
+Designer:   Peter Fonseca
+Designed:   2017
