@@ -5,6 +5,8 @@ CHANGES
 4.2.8
 -----
 
+- added Google Sans Flex font family
+
 - added Brass Mono font family
 
 - added Drafting Mono font family

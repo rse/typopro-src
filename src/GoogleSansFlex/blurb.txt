@@ -1,0 +1,9 @@
+Name:       Google Sans Flex
+Homepage:   https://fonts.google.com/specimen/Google+Sans+Flex
+Download:   https://fonts.google.com/specimen/Google+Sans+Flex
+Version:    1.00 (2025-12)
+License:    Open Font License
+Publisher:  Google
+Designer:   David Berlow (Font Bureau)
+Designed:   2025
+Derivation: none
