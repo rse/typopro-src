@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+4.2.9
+-----
+
+- updated Public Sans font family
+
 4.2.8
 -----
 
