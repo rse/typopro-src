@@ -5,6 +5,8 @@ CHANGES
 4.2.9
 -----
 
+- added Nebula Sans font family
+
 - updated Source Serif Pro font family
 
 - updated Source Code Pro font family

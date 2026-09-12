@@ -1,0 +1,13 @@
+Name:       Nebula Sans
+Homepage:   https://www.nebulasans.com/
+Download:   https://www.nebulasans.com/
+Version:    1.010 (2025-03)
+License:    Open Font License 1.1
+Publisher:  Adobe
+Designer:   Paul D. Hunt
+Designed:   2012
+Derivation: Source Sans Pro
+
+Nebula Sans is the new brand typeface for Nebula, the premium streaming
+service from independent creators. Based on Source Sans and designed to
+be a drop-in alternative to Whitney SSm.
