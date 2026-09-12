@@ -5,6 +5,8 @@ CHANGES
 4.2.9
 -----
 
+- updated Source Code Pro font family
+
 - updated Source Sans Pro font family
 
 - updated Public Sans font family
