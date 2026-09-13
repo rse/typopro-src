@@ -7,6 +7,8 @@ CHANGES
 
 - added Nebula Sans font family
 
+- updated Merriweather font family
+
 - updated Open Sans font family
 
 - updated Roboto font family
